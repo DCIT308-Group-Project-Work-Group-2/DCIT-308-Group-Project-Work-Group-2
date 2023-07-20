@@ -1,8 +1,8 @@
 package com.pharmacy;
 /**
  * Cobbina Emmanuel Adu Boateng - 10918207
- *Frederick Appiah- 10889066
- *
+ * Frederick Appiah- 10889066
+ * Brefo Rexford - 10917663
  *
  *
  */
